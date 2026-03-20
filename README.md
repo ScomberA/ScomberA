@@ -1,5 +1,4 @@
-# DEEPSEAS
-aloooo im **horror** but you can also call me:  
+aloooo im **horror** but you can also call me  
 <div align="center"> Amel | Spider | Mackerel
   
 <div align="center">
