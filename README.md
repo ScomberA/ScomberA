@@ -1,16 +1,11 @@
-## Hi there 👋
+# DEEPSEAS
+aloooo im **horror** but you can also call me:  
+<div align="center"> Amel | Spider | Mackerel
+  
+<div align="center">
+  <a href="https://en.pronouns.page/@Ameimel">! Pronouns !</a> <a href="https://ameiurushorrors.carrd.co/">! Carrd !</a><br/>
+     <a href="https://scombera.atabook.org/">! Atabook !</a>    
+</div><br/>
 
-<!--
-**ScomberA/ScomberA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <div align="right"> the strawpage is on its way 
+</div>
