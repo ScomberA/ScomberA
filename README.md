@@ -2,7 +2,7 @@
   
 <div align="center">
   <a href="https://en.pronouns.page/@Ameimel">! Pronouns !</a> <a href="https://ameiurushorrors.carrd.co/">! Carrd !</a><br/>
-     <a href="https://scombera.atabook.org/">! Atabook !</a> <a href="https://rentry.co/sinisteraquarium">! Rentry !</a>
+     <a href="https://scombera.atabook.org/">! Atabook !</a> <a href="https://rentry.co/2dtouchpool">! Rentry !</a>
 </div><br/>
 
 <img width="4096" height="690" alt="Image" src="https://github.com/user-attachments/assets/a5cb56ed-c075-45a7-9d2a-424b017f891e" />
